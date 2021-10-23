@@ -3,3 +3,4 @@
 /Build
 /Packages
 /*.xcodeproj
+Sources/Firebase/GoogleService-Info.plist
